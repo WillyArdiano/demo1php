@@ -1,0 +1,63 @@
+
+h2,h3 {
+    font: 170% sans-serif;
+    color: darkblue;   
+}
+
+label {
+    font: 150% sans-serif;
+    color: dimgray;   
+}
+
+#divInput {
+    margin-top: 300px;
+    margin-bottom: 350px;
+    text-align: center;
+    display: block;
+    align-items: center;
+    font-size: 30px;
+}
+
+#divParrafo {
+    margin-top: 350px;
+    margin-bottom: 400px;
+    margin: 50px;
+    text-align: center;
+    display: block;
+    align-items: center;
+    font-size: 25px;
+    border: 5px solid darkslategray;
+}
+
+#divPartes {
+    text-align: center;
+    display: block;
+    margin-top: 350px;
+    margin-bottom: 400px;
+    font-size: 25px;
+}
+
+p {
+    font-family: sans-serif;
+    font-size: 40px;
+    color: darkslategrey
+}
+
+input {
+    font-size: 25px;
+    margin: 25px;
+    size: 10px;
+}
+
+input [type=checkbox] {
+    transform: scale(112.5);
+}
+
+button {
+    font-size: 25px;
+    width: 200px;
+    height: 40px;
+    background: darkslategrey;
+    color: white;
+    margin-top: 50px;
+}
