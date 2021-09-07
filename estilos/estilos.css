@@ -1,5 +1,5 @@
 
-h2,h3 {
+h1,h2,h3 {
     font: 170% sans-serif;
     color: darkblue;   
 }
@@ -29,7 +29,7 @@ label {
     border: 5px solid darkslategray;
 }
 
-#divPartes {
+#divPartes,#divPartes2 {
     text-align: center;
     display: block;
     margin-top: 350px;
@@ -60,4 +60,19 @@ button {
     background: darkslategrey;
     color: white;
     margin-top: 50px;
+}
+
+.table {
+    border: 1px solid darkslategray;
+    color: darkslategrey;
+    font: 170% sans-serif;
+    text-align: center;
+    display: block;
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+
+.textT {
+    text-align: center;
+    display: block;
 }
