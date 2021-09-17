@@ -27,5 +27,5 @@
         echo "0 results";
     }
     $connexion->close();
-
+    
 ?>
