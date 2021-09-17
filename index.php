@@ -45,5 +45,11 @@
                 <button type="submit" id="btnpartes" >Verificar</button>
             </form> 
         </div>
+        <div id="divcrud" >
+            <a id="opcrud" href="vistas/VistaCrear.php" type="button">Crear</a>
+            <a id="opcrud" href="vistas/VistaActualizar.php" type="button">Actualizar</a>
+            <a id="opcrud" href="vistas/VistaBorrar.php" type="button">Borrar</a>
+            <a id="opcrud" href="vistas/VistaListar.php" type="button">Listar</a>
+        </div>
     </body>
 </html>
