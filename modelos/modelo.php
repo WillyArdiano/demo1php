@@ -1,6 +1,6 @@
 <?php
 
-require_once 'lista.php';
+require_once 'Lista.php';
 
 class PartesSistema {
     

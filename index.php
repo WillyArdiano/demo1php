@@ -49,7 +49,7 @@
             <a id="opcrud" href="vistas/VistaCrear.php" type="button">Crear</a>
             <a id="opcrud" href="vistas/VistaActualizar.php" type="button">Actualizar</a>
             <a id="opcrud" href="vistas/VistaBorrar.php" type="button">Borrar</a>
-            <a id="opcrud" href="vistas/VistaListar.php" type="button">Listar</a>
+            <a id="opcrud" href="controladores/ControladorListar.php" type="button">Listar</a>
         </div>
     </body>
 </html>

@@ -31,6 +31,8 @@
                 <input type="number" id="txtsubsistemas" name="txtsubsistemas" min="0" max="999">
             </div>
             <button type="submit">Registrar</button>
+            
+            <a href="../index.php" type="button" style="margin-left: 50px">Regresar</a>
         </form>
     </body>
 </hmtl>
