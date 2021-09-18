@@ -32,7 +32,7 @@
             </div>
             <button type="submit">Actualizar</button>
             
-            <a href="../index.php" type="button" style="margin-left: 50px">Regresar</a>
+            <a href="../vistas/VistaListaEditar.php" type="button" style="margin-left: 50px">Regresar</a>
         </form>
     </body>
 </hmtl>
