@@ -5,7 +5,7 @@
         <link rel="stylesheet" type="text/css" href="../estilos/estilos.css" media="screen"/>
     </head>
     <body>
-        <div  >
+        <div id="divCentro">
             <h1>Sistemas registrados:</h1>
             <table class="center" >
                 <thead>

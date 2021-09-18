@@ -18,6 +18,14 @@ label {
     font-size: 30px;
 }
 
+#divCentro {
+    margin-top: 100px;
+    margin-bottom: 350px;
+    text-align: center;
+    display: block;
+    align-items: center;
+}
+
 #divParrafo {
     margin-top: 350px;
     margin-bottom: 400px;
