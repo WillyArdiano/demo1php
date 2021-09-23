@@ -15,7 +15,6 @@
     if ($conexion->query($queryInsercion) === TRUE) {
         echo '<script>alert("Se ha actualizado exitosamente al sistema '.$_POST['txtnombre'].'");</script>';
         
-        //require_once './ControladorPreEditar.php?sisn='.$_POST['txtnombre'];
         require_once '../controladores/ControladorListar.php';
     } else {
         echo "Error: " . $queryInsercion . "<br>" . $conexion->error;
